@@ -1,0 +1,7 @@
+body > header > h1 {
+  color: crimson;
+}
+
+body > article > button {
+  color: blue;
+}
